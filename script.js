@@ -16,7 +16,6 @@ console.log(Movie2.studio);
 console.log(Movie2.rating);
 
 
-  
 //Q2
 
 class Circle{
